@@ -10,6 +10,7 @@ Vcs-Browser: https://github.com/yath/debian-ddate
 Package: ddate
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Conflicts: util-linux (<< 2.24.2-1)
 Description: convert Gregorian dates to Discordian dates
  Displays the Discordian date of a given date. The Discordian calendar
  was made popular by the "Illuminatus!" trilogy by Robert Shea and Robert
