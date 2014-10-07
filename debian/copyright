@@ -1,0 +1,41 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ddate
+Source: https://github.com/bo0ts/ddate
+
+Files: *
+Copyright: 1991 Jeremy Johnson <mpython@gnu.ai.mit.edu>
+           1995 Andrew Bulhak <acb@dev.null.org>
+           2013 Dan Dart <ntw@dandart.co.uk>
+License: public-domain
+   ddate.c .. converts boring normal dates to fun Discordian Date -><-
+   written  the 65th day of The Aftermath in the Year of Our Lady of
+   Discord 3157 by Druel the Chaotic aka Jeremy Johnson aka
+   mpython@gnu.ai.mit.edu
+      28 Sever St Apt #3
+      Worcester MA 01609
+   .
+   and I'm not responsible if this program messes anything up (except your
+   mind, I'm responsible for that)
+   .
+   (k) YOLD 3161 and all time before and after.
+   Reprint, reuse, and recycle what you wish.
+   This program is in the public domain.  Distribute freely.  Or not.
+   .
+   Majorly hacked, extended and bogotified/debogotified on
+   Sweetmorn, Bureaucracy 42, 3161 YOLD, by Lee H:. O:. Smith, KYTP,
+   aka Andrew Bulhak, aka acb@dev.null.org
+   .
+   Slightly hackled and crackled by a sweet firey stove on
+   Boomtime, the 53rd day of Bureaucracy in the YOLD 3179,
+   by Chaplain Nyan the Wiser, aka Dan Dart, aka ntw@dandart.co.uk
+   .
+   and I'm not responsible if this program messes anything up (except your
+   mind, I'm responsible for that) (and that goes for me as well --lhos)
+
+Files: debian/*
+Copyright: 2014 Sebastian Schmidt <yath@yath.de>
+License: permissive
+ Copying and distribution of this package, with or without
+ modification, are permitted in any medium without royalty
+ provided the copyright notice and this notice are
+ preserved.

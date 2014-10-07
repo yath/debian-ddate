@@ -1,0 +1,5 @@
+ddate (0.2.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #764325)
+
+ -- Sebastian Schmidt <yath@yath.de>  Tue, 07 Oct 2014 10:46:38 +0200
