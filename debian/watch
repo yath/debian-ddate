@@ -1,0 +1,3 @@
+version=3
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/ddate-$1\.tar\.gz/ \
+  https://github.com/bo0ts/ddate/tags .*/v?(\d\S*)\.tar\.gz
