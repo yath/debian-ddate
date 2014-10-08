@@ -4,6 +4,7 @@ Priority: optional
 Maintainer: Sebastian Schmidt <yath@yath.de>
 Build-Depends: debhelper (>= 9), cmake
 Standards-Version: 3.9.6
+Homepage: https://github.com/bo0ts/ddate
 Vcs-Git: https://github.com/yath/debian-ddate.git
 Vcs-Browser: https://github.com/yath/debian-ddate
 
