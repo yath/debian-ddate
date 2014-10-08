@@ -1,0 +1,3 @@
+# the only 'changelog' is in ddate.c and that's with Gregorian
+# and Discordian dates mixed...
+ddate binary: no-upstream-changelog
